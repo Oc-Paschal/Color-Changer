@@ -12,10 +12,10 @@ Click the button to change the background color!
 
 Project Structure
 colorchanger/
-├─ index.html      # Main HTML file
-├─script.js       # JavaScript for color changes
-├─style.css       # Styling
-└─ README.md       # Project info
+├─ index.html
+├─script.js       
+├─style.css       
+└─ README.md 
 
 License
 
